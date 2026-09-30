@@ -1,0 +1,72 @@
+body{
+        margin: 0;
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        background-color: #a9c2de;
+}
+
+.main-section{
+        padding: 20px;
+}
+
+#Luogo {
+    font-family: "Prata", serif;
+    font-weight: 400;
+    font-size: 64px;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#Regione {
+    font-family: "Prata", serif;
+    font-weight: 400;
+    font-size: 24px;
+    font-style: normal;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+        
+#Autore{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;            
+}
+
+#link:hover{
+    color:white    
+}
+
+
+ul{
+    padding: 0;
+    list-style: none;            
+}
+
+li{
+    border-bottom: 1px solid;
+    border-color: #dfdfdf;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    padding-left: 22px;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    padding: 16px;
+}
+
+#Homepage{
+    text-decoration: none;
+    color:white  
+}
+
+#Homepage:hover{
+    color:greenyellow
+}
